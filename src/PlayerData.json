@@ -1,0 +1,165 @@
+[
+  {
+    "Fname": "Manuel",
+    "Lname": "Neuer",
+    "Position": "Goalkeeper",
+    "Number": "1",
+    "Nationality": "Germany",
+    "Club": "Fc Bayern Munchen",
+    "Image": "https://d1shohv3413tr9.cloudfront.net/wp-content/uploads/2018/09/21005145/5ba09a5847b69_neuer.jpg",
+    "Video": "https://www.youtube.com/embed/6yuniC_nHbE",
+    "Card": "cards/Neuer.png"
+  },
+
+  {
+    "Fname": "Sergio",
+    "Lname": "Ramos",
+    "Position": "Defender",
+    "Number": "4",
+    "Nationality": "Spain",
+    "Club": "Real Madrid",
+    "Image": "https://talksport.com/wp-content/uploads/sites/5/2019/03/GettyImages-1094520540.jpg?strip=all&w=960&quality=100",
+    "Video": "https://www.youtube.com/embed/kRdSQwF1qgo",
+    "Card": "cards/RAMOS.png"
+  },
+
+  {
+    "Fname": "Virgil",
+    "Lname": "van Dijk",
+    "Position": "Defender",
+    "Number": "4",
+    "Nationality": "Netherlands",
+    "Club": "Liverpool",
+    "Image": "https://i2-prod.dailystar.co.uk/incoming/article19022599.ece/ALTERNATES/s1200b/0_Virgil-van-Dijk-Liverpool.jpg",
+    "Video": "https://www.youtube.com/embed/RDSn13-FPCM",
+    "Card": "cards/DIJK.png"
+  },
+  {
+    "Fname": "David",
+    "Lname": "Alaba",
+    "Position": "Defender",
+    "Number": "27",
+    "Nationality": "Austria",
+    "Club": "Fc Bayern Munchen",
+    "Image": "https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000506526641-e1563558379571.jpg",
+    "Video": "https://www.youtube.com/embed/mTqOrBpXrX4",
+    "Card": "cards/ALABA.png"
+  },
+  {
+    "Fname": "Joshua",
+    "Lname": "Kimmich",
+    "Position": "Defender",
+    "Number": "32",
+    "Nationality": "Germany",
+    "Club": "Fc Bayern Munchen",
+    "Image": "https://cdn.vox-cdn.com/thumbor/9Lb6vc3BVUL-cyuZHrAUOhyQ1XY=/0x0:2278x1519/1200x800/filters:focal(980x144:1344x508)/cdn.vox-cdn.com/uploads/chorus_image/image/63748752/Kimmich_19.0.jpg",
+    "Video": "https://www.youtube.com/embed/CHXEkKeJ0VM",
+    "Card": "cards/KIMMICH.png"
+  },
+
+  {
+    "Fname": "David",
+    "Lname": "Luiz",
+    "Position": "Defender",
+    "Number": "23",
+    "Nationality": "Brazil",
+    "Club": "Arsenal",
+    "Image": "https://imagevars.gulfnews.com/2019/08/19/Luiz_16ca98441c0_large.jpg",
+    "Video": "https://www.youtube.com/embed/XJxBhvF9ZRs",
+    "Card": "cards/LUIZ.png"
+  },
+
+  {
+    "Fname": "Toni",
+    "Lname": "Kroos",
+    "Position": "Midfielder",
+    "Number": "8",
+    "Nationality": "Germany",
+    "Club": "Real Madrid",
+    "Image": "https://futaa.com/images/full/Toni%20Kroos.jpg",
+    "Video": "https://www.youtube.com/embed/n3YQEqcBlQw",
+    "Card": "cards/KROOS.png"
+  },
+
+  {
+    "Fname": "Kevin",
+    "Lname": "De Bruyne",
+    "Position": "Midfielder",
+    "Number": "17",
+    "Nationality": "Belgium",
+    "Club": "Manchester City",
+    "Image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/20/13/kevin-de-bruyne.jpg?w968h681",
+    "Video": "https://www.youtube.com/embed/ZtAt65l6mU0",
+    "Card": "cards/BRUYNE.png"
+  },
+  {
+    "Fname": "N'Golo",
+    "Lname": "Kante",
+    "Position": "Midfielder",
+    "Number": "7",
+    "Nationality": "France",
+    "Club": "Chelsea",
+    "Image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/chelsea-fc-v-watford-fc-premier-league-5ce647afac4be25625000001.jpg",
+    "Video": "https://www.youtube.com/embed/ZouXCa4fdCE",
+    "Card": "cards/KANTE.png"
+  },
+  {
+    "Fname": "Thiago",
+    "Lname": "Alcantara",
+    "Position": "Midfielder",
+    "Number": "6",
+    "Nationality": "Spain",
+    "Club": "Fc Bayern Munchen",
+    "Image": "https://www.dreamteamfc.com/c/wp-content/uploads/sites/4/2017/04/Thiago.jpg?strip=all&quality=100",
+    "Video": "https://www.youtube.com/embed/HA4NaT7DYVI",
+    "Card": "cards/THIAGO.png"
+  },
+
+  {
+    "Fname": "Cristiano",
+    "Lname": "Ronaldo",
+    "Position": "Forward",
+    "Number": "7",
+    "Nationality": "Portugal",
+    "Club": "Juventus",
+    "Image": "https://talksport.com/wp-content/uploads/sites/5/2019/07/NINTCHDBPICT000507423858-e1563719608937.jpg?strip=all&w=960&quality=100",
+    "Video": "https://www.youtube.com/embed/YS_gYjBccGg",
+    "Card": "cards/RONALDO.png"
+  },
+
+  {
+    "Fname": "Robert",
+    "Lname": "Lewandowski",
+    "Position": "Forward",
+    "Number": "9",
+    "Nationality": "Poland",
+    "Club": "Fc Bayern Munchen",
+    "Image": "https://cdn.vox-cdn.com/thumbor/oc5yS1dGxV8FPNCMIQ5XwaHIS7U=/0x0:3798x2646/1200x800/filters:focal(2004x415:2610x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/63209470/GettyImages-1134705017.0.0.jpg",
+    "Video": "https://www.youtube.com/embed/3mYpIr37O6s",
+    "Card": "cards/LEWANDOWSKI.png"
+  },
+
+  {
+    "Fname": "Lionel",
+    "Lname": "Messi",
+    "Position": "Forward",
+    "Number": "10",
+    "Nationality": "Argentina",
+    "Club": "Barcelo",
+    "Image": "https://amp.thenational.ae/image/policy:1.896794:1565502809/Lionel-Messi-Barcelona.jpg?f=4x3&q=1.0&w=1024&$p$f$q$w=64348ce",
+    "Video": "https://www.youtube.com/embed/X3yuJd8c44I",
+    "Card": "cards/MESSI.png"
+  },
+
+  {
+    "Fname": "Teemu",
+    "Lname": "Pukki",
+    "Position": "Forward",
+    "Number": "22",
+    "Nationality": "Finland",
+    "Club": "Norwich",
+    "Image": "https://hs.mediadelivery.fi/img/1920/66d3704e5fd14fe49e6bcec183a18d1c.jpg",
+    "Video": "https://www.youtube.com/embed/HXIT-ksLcvY",
+    "Card": "cards/PUKKI.png"
+  }
+]
